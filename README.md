@@ -1,6 +1,8 @@
 # alurareceitas
 Repositório do curso de [Django](https://www.alura.com.br/cursos-online-programacao/python) do Alura para construção de uma aplicação web utilizando Python e o framework Django
 
+[![Build Status](https://travis-ci.org/marvinsilva/alurareceitas.svg?branch=master)](https://travis-ci.org/marvinsilva/alurareceitas)
+
 Suportada versão 3 de Python
 
 Para instalar:
