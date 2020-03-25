@@ -13,4 +13,4 @@ script:
   - pytest --cov=receitas
 
 after_success:
-  - pipenv run codecov
+  - codecov
