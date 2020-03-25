@@ -1,7 +1,16 @@
 language: python
+dist: xenial
+sudo: true
+
 python:
   - 3.8
+
 install:
-  - pip install -q -r requirements-dev.txt
+  - pip install -r requirements-dev.txt
+
 script:
   - flake8
+  - pytest --cov=receitas
+
+after_success:
+  - pipenv run codecov
