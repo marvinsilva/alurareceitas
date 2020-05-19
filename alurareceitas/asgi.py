@@ -1,5 +1,5 @@
 """
-ASGI config for alurareceita project.
+ASGI config for alurareceitas project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'alurareceita.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'alurareceitas.settings')
 
 application = get_asgi_application()
