@@ -1039,7 +1039,7 @@ textarea:focus {
   .ingredients {
     margin-bottom: 80px; } }
 .ingredients h4 {
-  color: #474747;
+  color: #000000;
   margin-bottom: 30px; }
 .ingredients .custom-checkbox .custom-control-label::before {
   border-radius: 0; }
