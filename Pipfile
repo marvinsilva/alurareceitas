@@ -17,6 +17,7 @@ dj-database-url = "*"
 psycopg2-binary = "*"
 dj-static = "*"
 django-debug-toolbar = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.8"
