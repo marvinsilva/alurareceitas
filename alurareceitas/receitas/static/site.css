@@ -57,6 +57,10 @@ img {
   height: auto;
   max-width: 100%; }
 
+.best-receipe-area img {
+  height: 250px !important;
+  width: 330px !important; }
+
 /* Spacing */
 .mt-15 {
   margin-top: 15px !important; }
