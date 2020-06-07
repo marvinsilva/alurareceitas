@@ -18,6 +18,7 @@ psycopg2-binary = "*"
 dj-static = "*"
 django-debug-toolbar = "*"
 pillow = "*"
+django-s3-folder-storage = "*"
 
 [requires]
 python_version = "3.8"
