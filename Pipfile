@@ -19,6 +19,7 @@ dj-static = "*"
 django-debug-toolbar = "*"
 pillow = "*"
 django-s3-folder-storage = "*"
+collectfast = "*"
 
 [requires]
 python_version = "3.8"
